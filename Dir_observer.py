@@ -8,7 +8,7 @@ from watchdog.events import LoggingEventHandler, FileSystemEventHandler
 from pathlib import Path
 from Evos_import import ProcessImageFolder
 
-watchpath = 'D:\\nBox\\EVOS_FL' #define directory to watch
+watchpath = 'C:\\Image\\directory' #define directory to watch
 
 global mod_count_global
 mod_count_global = {}
