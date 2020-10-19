@@ -12,10 +12,10 @@ Prerequisite:
 
 Install required packages using the following command:
 
-'''
+```
 pip install python-pptx
 pip install watchdog
-'''
+```
 
 How to use:
 1. Install required packages
